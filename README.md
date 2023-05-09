@@ -12,6 +12,9 @@
   <a href="mailto:marlonsanchezal@gmail.com?subject=Contact%20for%20work%20reasons&body=Hi%2C%20I'm%20interested%20in%20your%20web%20developer%20profile." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://github.com/MarlonSanchez-Ale" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
+  </a>
 </div>
 
 <br/>
