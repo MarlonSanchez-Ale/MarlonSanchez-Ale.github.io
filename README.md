@@ -81,3 +81,48 @@
 </td></tr></table>
 
 <br/>
+
+<h2 align="left">Some projects</h2>
+
+
+<p align="left">Develop with Next Js, React Js/ The Data Age - Puntos Luz.</p>
+
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/MarlonSanchez-Ale/MarlonSanchez-Ale.github.io/master/PuntosLuz.png"  />
+</div>
+
+
+<p align="left">I collaborated in the development / The Data Age - Tasa Poste</p>
+
+
+<p align="left"></p>
+
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/MarlonSanchez-Ale/MarlonSanchez-Ale.github.io/master/TasaPoste.png"  />
+</div>
+
+
+<p align="left">Wordpress / Incompany.</p>
+
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/MarlonSanchez-Ale/MarlonSanchez-Ale.github.io/master/Incompany.png"  />
+</div>
+
+
+<p align="left">Wordpress / Simplisoft.</p>
+
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/MarlonSanchez-Ale/MarlonSanchez-Ale.github.io/master/Simplisoft.png"  />
+</div>
+
+
+<p align="left">Wordpress / Fundación Jóvenes Ambientalistas - Feria Nacional de la Tierra.</p>
+
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/MarlonSanchez-Ale/MarlonSanchez-Ale.github.io/master/FeriaNacionalTierra.png"  />
+</div>
