@@ -6,20 +6,6 @@
   <a href="linkedin.com/in/marlon-josué-sánchez-alemán-84688b1b6" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
-
-# <div align="center">Hey, welcome to my portfolio. I'm Marlon Sánchez a passionate frontend developer from Nicaragua. 👋 👨 🚀<div>
-
-# 💫 About Me:
-
-🔭 I'm systems engineer.<br>🤝 A passionate frontend developer from Nicaragua.<br>🌱 I have worked in full stack development with next js and React Js.
-
-## 🌐 Socials:
-
-<div align="center">
-  <a href="linkedin.com/in/marlon-josué-sánchez-alemán-84688b1b6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="https://wa.link/hdt9tf" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
@@ -28,8 +14,15 @@
   </a>
 </div>
 
+<div align="center"><p>Hey, welcome to my portfolio. I'm Marlon Sánchez a passionate frontend developer from Nicaragua. 👋 👨 🚀</p><div>
+
+# 💫 About Me:
+
+🔭 I'm systems engineer.<br>🤝 A passionate frontend developer from Nicaragua.<br>🌱 I have worked in full stack development with next js and React Js.
+
 
 # 💻 My Skill Set:
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
