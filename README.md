@@ -19,10 +19,13 @@
 
 <h2 align="left">💫 About Me:</h2>
 
-🔭 I'm systems engineer.<br>🤝 A passionate frontend developer from Nicaragua.<br>🌱 I have worked in full stack development with next js and React Js.
+- 🔭 I'm systems engineer.<br>
+- 🤝 A passionate frontend developer from Nicaragua.<br>
+- 🌱 I have worked in full stack development with next js and React Js.
 
 
-# 💻 My Skill Set:
+
+<h2 align="left">💻 My Skill Set:</h2>
 
 <table><tr><td valign="top" width="33%">
 
